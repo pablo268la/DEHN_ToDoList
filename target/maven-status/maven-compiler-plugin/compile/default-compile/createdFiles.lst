@@ -1,0 +1,14 @@
+com/example/ToDoList/service/FileManager.class
+com/example/ToDoList/service/FileManager$1.class
+com/example/ToDoList/utils/Utils$1.class
+com/example/ToDoList/model/TaskStatus.class
+com/example/ToDoList/ToDoListApplication.class
+com/example/ToDoList/commands/UpdateTaskCommand.class
+com/example/ToDoList/utils/Utils.class
+com/example/ToDoList/commands/DeleteTaskCommand.class
+com/example/ToDoList/commands/FindTaskCommand.class
+com/example/ToDoList/commands/ListTasksCommand.class
+com/example/ToDoList/service/ToDoService.class
+com/example/ToDoList/config/JacksonConfig.class
+com/example/ToDoList/commands/CreateTaskCommand.class
+com/example/ToDoList/model/ToDoItem.class

@@ -1,0 +1,7 @@
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithBlankOption()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameSuccess()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithEmptyFileName()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithBlankOptionAndEmptyFileName()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithWhitespaceFileName()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithNullFileName()]
+[engine:junit-jupiter]/[class:com.example.ToDoList.commands.FileCommandTest]/[method:testSetFileNameWithBlankOptionAndNullFileName()]

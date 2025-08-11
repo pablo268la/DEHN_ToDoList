@@ -1,0 +1,22 @@
+[
+  {
+    "interfaces": [
+      "com.sun.jna.Callback"
+    ]
+  },
+  {
+    "interfaces": [
+      "com.sun.jna.Library"
+    ]
+  },
+  {
+    "interfaces": [
+      "org.jline.terminal.impl.jna.linux.CLibrary"
+    ]
+  },
+  {
+    "interfaces": [
+      "org.jline.terminal.impl.jna.win.Kernel32"
+    ]
+  }
+]

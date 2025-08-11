@@ -1,0 +1,14 @@
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/ToDoListApplication.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/CreateTaskCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/DeleteTaskCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/FileCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/FindTaskCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/ListTasksCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/commands/UpdateTaskCommand.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/config/FileConfig.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/config/JacksonConfig.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/model/TaskStatus.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/model/ToDoItem.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/service/FileManager.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/service/ToDoService.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/main/java/com/example/ToDoList/utils/Utils.java

@@ -1,0 +1,9 @@
+com/example/ToDoList/commands/FindTaskCommandTest.class
+com/example/ToDoList/config/JacksonConfigTest.class
+com/example/ToDoList/service/FileManagerTest.class
+com/example/ToDoList/commands/FileCommandTest.class
+com/example/ToDoList/service/ToDoServiceTest.class
+com/example/ToDoList/commands/CreateTaskCommandTest.class
+com/example/ToDoList/commands/DeleteTaskCommandTest.class
+com/example/ToDoList/commands/UpdateTaskCommandTest.class
+com/example/ToDoList/commands/ListTasksCommandTest.class

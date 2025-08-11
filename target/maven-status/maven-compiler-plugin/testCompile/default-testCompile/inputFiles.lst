@@ -1,0 +1,9 @@
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/CreateTaskCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/DeleteTaskCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/FileCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/FindTaskCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/ListTasksCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/commands/UpdateTaskCommandTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/config/JacksonConfigTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/service/FileManagerTest.java
+/Users/pablo/Documents/Entrevistas/DEHN/DEHN_ToDoList/src/test/java/com/example/ToDoList/service/ToDoServiceTest.java
